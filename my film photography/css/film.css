@@ -1,0 +1,53 @@
+header{
+	background-color: #f8f7ed;
+	padding: 15px;
+}
+
+h1{
+	font size: 30px;
+	text-align: center;
+	color: #ff3333;
+}
+
+/*<header> 
+		<h1>MY FILM PHOTOGRAPHY</h1>
+	</header>*/
+
+h2{
+	padding: 70px;
+	font size: 24px;
+	text-align: center;
+	color: #ff3333;
+	font-style: italic;
+	line-height: 1.6;
+}
+
+/*<div style="width: 50%; float: left; height: 100%; background-color: white; margin:10px">
+		<h2>Hey. I took some pictures using Olympus OM10 and I think they came out quite cool so I'm sharing them here. Yes, I am pretentious for using film and I really don't care. It shall me a sausage be.</h2>
+	</div>*/
+
+
+<div style="width: 50%; float: right; height: 100%; border: 20px; color: black">
+		<img src="img/streetlamp.jpg">
+	</div>
+
+	<div>
+
+
+		<h3>Other things that I like</h3>
+		<ol>
+			<li>Our dark lord and savior. The bean king. One and only: coffeeeeeee.</li>
+			<li>Artsy shit.</li>
+			<li>A sarcastic arsehole named David.</li>
+		</ol>
+		</div>
+
+		<img class="big-image" src="img/flowersinafence.jpg">
+		<p class="caption">Flowers and shit</p>
+		<h2>Artists that I like</h2>
+		<ul>
+			<li><a href="https://en.wikipedia.org/wiki/Zdzis%C5%82aw_Beksi%C5%84ski" target="_blank" title="See more about ma dude"> Zbigniew Beksinski</a> from Poland</li>
+			<li><a href="https://en.wikipedia.org/wiki/Egon_Schiele" target="_blank" title='He is cool. I promise'>Egon Schiele</a> from Austria</li>
+			<li><a href="https://www.instagram.com/ufotattooist/?hl=pl" target="_blank" title="sick boii">UFO tattoos</a> from Poland</li>
+		</ul>
+	</div>
